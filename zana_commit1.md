@@ -1,3 +1,3 @@
-# Zana Commit 2
-İkinci katkı dosyası.  
-Bu commit ile teknik katkımızı sunuyoruz.
+# Zana Commit 1
+Bu dosya Zana Network Guild için hazırlanmıştır.
+Commit 1
